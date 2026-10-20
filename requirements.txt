@@ -1,0 +1,9 @@
+# Replace with the exact versions from your machine for reproducibility:
+#   pip freeze | findstr /i "pandas numpy matplotlib seaborn scikit-learn jupyter"   (Windows)
+#   pip freeze | grep -iE "pandas|numpy|matplotlib|seaborn|scikit-learn|jupyter"      (Mac/Linux)
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
